@@ -1,7 +1,7 @@
 url: https://poliisi.fi/tee-rikosilmoitus
-status: down
-code: 503
-responseTime: 645
-lastUpdated: 2023-09-15T19:01:36.299Z
+status: up
+code: 200
+responseTime: 1798
+lastUpdated: 2023-09-15T19:14:19.783Z
 startTime: 2023-08-12T08:27:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
