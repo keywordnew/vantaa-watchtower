@@ -99,9 +99,9 @@
     "url": "https://poliisi.fi/tee-rikosilmoitus",
     "icon": "https://nilspace.xyz/content/images/2023/05/emergency.png",
     "slug": "western-uusimaa-police-department",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -110,7 +110,9 @@
     "timeWeek": 1230,
     "timeMonth": 1438,
     "timeYear": 1228,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-01": 0
+    }
   },
   {
     "name": "Helsinki Regional Transport Authority",
@@ -118,11 +120,11 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
     "status": "up",
-    "uptime": "73.23%",
+    "uptime": "73.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "63.96%",
-    "uptimeYear": "73.23%",
+    "uptimeYear": "73.25%",
     "time": 1470,
     "timeDay": 572,
     "timeWeek": 2325,
